@@ -18,7 +18,7 @@ public class AddressController {
     @Autowired
     IAddressService addressService;
     /*
-    *
+    * TIANJIADIZHIMOKUAIGIT
     * 添加地址模块
     * */
     @RequestMapping(value = "/add.do")
